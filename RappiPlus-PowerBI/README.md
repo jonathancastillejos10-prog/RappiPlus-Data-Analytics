@@ -170,3 +170,4 @@ Mechanical Engineer | Data Analyst | BI & Data Automation
 
 Especialización en análisis de datos, automatización y Business Intelligence aplicado a entornos industriales y energéticos.
 
+![RappiPlus Power BI Dashboard](RappiPlus_Dashboard.png)
