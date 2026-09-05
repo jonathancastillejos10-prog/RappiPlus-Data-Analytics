@@ -105,6 +105,20 @@ Se analizaron las principales etapas del recorrido del usuario:
 | Add Payment Info |    6,250 |
 | Purchase         |    6,240 |
 
+
+### Análisis de cohortes
+
+Se analizó la retención semanal de usuarios para evaluar la evolución del comportamiento después de su primera interacción.
+
+| Semana   | Retención |
+| -------- | --------: |
+| Semana 1 |    42.01% |
+| Semana 2 |    41.96% |
+| Semana 3 |    41.92% |
+
+La retención se mantuvo estable alrededor del **42% durante las primeras tres semanas**, sin variaciones relevantes entre cohortes.
+
+
 ### Análisis A/B
 
 Se compararon dos grupos para evaluar el impacto de una variante experimental:
